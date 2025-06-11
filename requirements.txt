@@ -1,0 +1,2 @@
+linkedin-scraper>=2.4.0
+selenium>=4.0.0 
