@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Chungin (Roy) Lee",
+    "linkedin_url": "https://www.linkedin.com/in/roy-lee-goat/",
+    "picture_url": null,
+    "bio": "roy@cluely.com",
+    "role": "CEO, Co-Founder",
+    "companies": [
+      "Cluely",
+      "Interview Coder",
+      "6 mos",
+      "ComplianceRight",
+      "University of California, Berkeley"
+    ],
+    "current_location": "San Francisco, California, United States · On-site",
+    "has_linkedin": true,
+    "scraped": true,
+    "manually_verified": false,
+    "created_at": "2025-06-11T05:19:33.988972",
+    "experiences": [
+      {
+        "position": "CEO, Co-Founder",
+        "company": "Cluely",
+        "location": "San Francisco, California, United States · On-site",
+        "duration": "Apr 2025 to Present",
+        "description": "cheat on everything | $1M ARR in 16 days"
+      },
+      {
+        "position": "CEO, Founder",
+        "company": "Interview Coder",
+        "location": "New York, United States · On-site",
+        "duration": "Feb 2025 to Present",
+        "description": "$1M ARR in 36 days\nInvisible AI for technical interviews."
+      },
+      {
+        "position": "Nucleus Genomics",
+        "company": "6 mos",
+        "location": "",
+        "duration": "New York, to States",
+        "description": "Software Engineer\nFull-time\nSep 2024 - Nov 2024 · 3 mos\nInternship\nJun 2024 - Sep 2024 · 4 mos\nbuilding the future of genomics"
+      },
+      {
+        "position": "CTO, Co-Founder",
+        "company": "ComplianceRight",
+        "location": "Berkeley, California, United States · On-site",
+        "duration": "Jan 2024 to May 2024",
+        "description": "Advancing scientific progress\nStreamline your IRB Compliance Protocol"
+      },
+      {
+        "position": "Research Assistant",
+        "company": "University of California, Berkeley",
+        "location": "Berkeley, California, United States · Hybrid",
+        "duration": "Dec 2023 to May 2024",
+        "description": "Relationships and Social Cognition Lab"
+      }
+    ]
+  },
+  {
+    "name": "Bill Gates",
+    "linkedin_url": "https://www.linkedin.com/in/williamhgates",
+    "picture_url": null,
+    "bio": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+    "role": "Co-chair",
+    "companies": [
+      "Gates Foundation",
+      "Breakthrough Energy ",
+      "Microsoft"
+    ],
+    "current_location": null,
+    "has_linkedin": true,
+    "scraped": true,
+    "manually_verified": false,
+    "created_at": "2025-06-11T05:20:28.748408",
+    "experiences": [
+      {
+        "position": "Co-chair",
+        "company": "Gates Foundation",
+        "location": "",
+        "duration": "2000 - - Present",
+        "description": null
+      },
+      {
+        "position": "Founder",
+        "company": "Breakthrough Energy ",
+        "location": "",
+        "duration": "2015 - - Present",
+        "description": null
+      },
+      {
+        "position": "Co-founder",
+        "company": "Microsoft",
+        "location": "",
+        "duration": "1975 - - Present",
+        "description": null
+      }
+    ]
+  },
+  {
+    "name": "Cameron Byrne",
+    "linkedin_url": "https://www.linkedin.com/in/cameronbyrne00",
+    "picture_url": null,
+    "bio": "👋 Hello! I'm Cameron Byrne, a 3rd year studying Computer Science student at UC Santa Barbara, currently seeking software engineering internship opportunities for Summer 2025. I'm interested in FinTech, AI and the bridge between finance and technology.\nI also enjoy soccer, running, lifting, photography, fashion, and cooking.\nChat with me at cameron.byrne@outlook.com\n…see more",
+    "role": "Software Engineering Intern",
+    "companies": [
+      "Parkworth Wealth Management, Inc",
+      "Burlington Stores, Inc."
+    ],
+    "current_location": "Los Gatos, California, United States · On-site",
+    "has_linkedin": true,
+    "scraped": true,
+    "manually_verified": false,
+    "created_at": "2025-06-11T05:21:26.093904",
+    "experiences": [
+      {
+        "position": "Software Engineering Intern",
+        "company": "Parkworth Wealth Management, Inc",
+        "location": "Los Gatos, California, United States · On-site",
+        "duration": "Jun 2024 to Sep 2024",
+        "description": "• Developed full-stack FinTech software to speed up tax-planning workflows for wealth managers\n• Reduced user time to conduct specific tax-planning processes by 85% via automation\n• Presented software to 4 clients and used feedback to adapt front-end and add requested features\n• Managed merge conflicts and solved dependency issues in Github team programming environment\n• Developed full-stack FinTech software to speed up tax-planning workflows for wealth managers • Reduced user time to conduct specific tax-planning processes by 85% via automation • Presented software to 4 clients and used feedback to adapt front-end and add requested features • Managed merge conflicts and solved dependency issues in Github team programming environment\nSkills: Python (Programming Language) · Django · JavaScript · Bootstrap (Framework) · Cascading Style Sheets (CSS) · HTML · FinTech · Redis · Celery · PostgreSQL\nPython (Programming Language) · Django · JavaScript · Bootstrap (Framework) · Cascading Style Sheets (CSS) · HTML · FinTech · Redis · Celery · PostgreSQL"
+      },
+      {
+        "position": "Retail Cashier",
+        "company": "Burlington Stores, Inc.",
+        "location": "San Jose, California, United States · On-site",
+        "duration": "Jun 2022 to Jan 2024",
+        "description": "• Leveraged customer service skills to create a positive shopping experience for 80+ customers daily\n• Utilized attention to detail to process sales and returns with zero errors over an 18-month period\n• Demonstrated communication by coordinating with 5+ associates at a time to streamline operations\n• Proactively assisted customers by personally carrying purchases to cars during elevator maintenance\n• Leveraged customer service skills to create a positive shopping experience for 80+ customers daily • Utilized attention to detail to process sales and returns with zero errors over an 18-month period • Demonstrated communication by coordinating with 5+ associates at a time to streamline operations • Proactively assisted customers by personally carrying purchases to cars during elevator maintenance\nSkills: Team Collaboration · Communication · Problem Solving · Sales Transformation · Customer Service · Cash Handling\nTeam Collaboration · Communication · Problem Solving · Sales Transformation · Customer Service · Cash Handling"
+      }
+    ]
+  }
+]
